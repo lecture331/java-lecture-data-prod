@@ -57,6 +57,7 @@ public class PolyCar {
         ));
         System.out.print("SF90: ");
         sf90Fnc.leftSignal();
+        System.out.print("SF90: ");
         sf90Fnc.rightSignal();
     }
 
